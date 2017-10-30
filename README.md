@@ -26,4 +26,12 @@ For this, you can use the following tools with Angular: NPM, Gulp/Grunt, Bower, 
 
 * Like all good applications, this one needs some tests too. Unit testing is **mandatory** for this application and the more, the better. Also, there is a need for **one automated UI test scenario**: after the list is loaded, the test should select one of the users and edit its first and last name and then, it should validate if the values were changed on the list. 
 
-* Instructions on how to run the application should be added (it is fine to put them on the README.md
+* Instructions on how to run the application should be added (it is fine to put them on the README.md).
+
+
+### Examples
+Here is an example of what the main screens should look like. They don’t have to be necessary like that, it is just to make easier to visualize what should be created with the exercise.
+
+![Main view using grid](img/.png "Main view using grid")
+
+![Main view using cards](img/.png "Main view using cards")
