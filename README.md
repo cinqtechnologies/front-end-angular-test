@@ -32,6 +32,6 @@ For this, you can use the following tools with Angular: NPM, Gulp/Grunt, Bower, 
 ### Examples
 Here is an example of what the main screens should look like. They don’t have to be necessary like that, it is just to make easier to visualize what should be created with the exercise.
 
-![Main view using grid](img/.png "Main view using grid")
+![Main view using grid](img/1.png "Main view using grid")
 
-![Main view using cards](img/.png "Main view using cards")
+![Main view using cards](img/2.png "Main view using cards")
