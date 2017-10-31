@@ -1,7 +1,7 @@
 # Frontend Angular Test
 
 ### Overview
-Imagine this is an MVP and additional features are already planned for the future. Try structuring the application in a way, that **you can easily extend it when the time comes and reuse as much of the code you have already written** for this MVP.
+Imagine this is a MVP and additional features are already planned for the future. Try structuring the application in a way that **you can easily extend it when the time comes and reuse as much of the code you have already written** for this MVP.
 
 For this, you can use the following tools with Angular: NPM, Gulp/Grunt, Bower, ui-router, Bootstrap, requirejs, PrimeNG ConfirmDialogModule,  Angular CLI.
 
